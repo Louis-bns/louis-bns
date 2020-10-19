@@ -1,4 +1,4 @@
-### Hello there <img src="waving_hand.gif">
+### Hello there <img src="waving_hand">
  
 
 # My Profile
