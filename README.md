@@ -4,7 +4,7 @@
 # My Profile
  * Hello my name is Louis and I`m currently lerning how to use Git
  * You can find me on [![Twitter][1.2]][1], or on <a href="https://www.instagram.com/bns.louis">
-    <img alt="Instagram" src="https://upload.wikimedia.org/wikipedia/commons/2/27/CIS-A2K_Instagram_Icon_%28Black%29.svg" width="300">
+    <img alt="Instagram" src="https://upload.wikimedia.org/wikipedia/commons/2/27/CIS-A2K_Instagram_Icon_%28Black%29.svg" width="20">
  </a>.
 
 
