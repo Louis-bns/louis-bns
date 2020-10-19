@@ -8,7 +8,7 @@
 
 
 [1.2]: http://i.imgur.com/wWzX9uB.png 
-[2.2]: <https://upload.wikimedia.org/wikipedia/commons/2/27/CIS-A2K_Instagram_Icon_%28Black%29.svg height="30px" width="30px">
+[2.2]: <https://upload.wikimedia.org/wikipedia/commons/2/27/CIS-A2K_Instagram_Icon_%28Black%29.svg width="30px">
 
 [1]: https://twitter.com/Louis71128600
 [2]: https://www.instagram.com/bns.louis
