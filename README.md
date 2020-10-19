@@ -1,5 +1,5 @@
-### Hello there <img src="https://raw.githubusercontent.com/Louis-bns/Louis-bns/master/waving_hand.gif">
-
+### Hello there <img src="waving_hand.gif">
+ 
 
 # My Profile
  * Hello my name is Louis and I`m currently lerning how to use Git
